@@ -1,7 +1,7 @@
 ## Settings
 
-ALLOWED_HOSTS = ['192.168.0.115']
+ALLOWED_HOSTS = ["localhost"]
 
-ADDR = ('192.168.0.115', 6005)
+ADDR = ("localhost", 6005)
 
 
